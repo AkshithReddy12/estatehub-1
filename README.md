@@ -26,13 +26,13 @@ To set up the project locally, follow these steps:
 
 1. *Clone the repository*:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AkshithReddy12/estatehub-1
    cd estatehub
 
 2. *Create a .env file in the root directory and add the following variables:*
    ```bash
-   CLIENT_ID=    # Google OAuth client ID
-   CLIENT_SECRET=# Google OAuth client secret
+   CLIENT_ID=        # Google OAuth client ID
+   CLIENT_SECRET=    # Google OAuth client secret
 3. *Install dependencies*:
    ```bash
    npm install
